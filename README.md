@@ -6,7 +6,9 @@
 
 <img src=".github\cover.png" style="zoom:100%" align="center"/>
 
-
+<div align="center">
+  <small>copyright holders - Shinji Ueda - Agosto/2021</small>
+</div>
 
 
 
